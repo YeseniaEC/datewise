@@ -10,6 +10,8 @@ bin
 obj
 *.db
 .vs
+db
+*db
 
 # User-specific files
 *.suo

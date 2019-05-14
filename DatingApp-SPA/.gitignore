@@ -6,6 +6,7 @@
 /out-tsc
 
 .vscode
+.editorconfig
 
 # dependencies
 /node_modules
