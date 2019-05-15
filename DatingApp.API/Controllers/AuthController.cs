@@ -83,7 +83,7 @@ namespace DatingApp.API.Controllers
 
             catch
             {
-                return StatusCode(500, "Computer really says no!!")
+                return StatusCode(500, "Computer really says no!!");
             }
 
         }
